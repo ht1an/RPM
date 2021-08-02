@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-test git
+test git   ss
 Created on Thu Nov  5 09:26:12 2020
 To test the reduced proper motion to select the K giant stars from dwarf stars
 @author: htian
